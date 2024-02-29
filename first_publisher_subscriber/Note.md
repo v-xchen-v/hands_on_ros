@@ -39,3 +39,10 @@ rostopic list
 rostopic hz kaihei_room
 rostopic echo kaihei_room
 ```
+
+## rqt_graph
+图形化显示当前系统活跃的节点以及节点间的话题通讯关系。
+```
+rqt_graph
+```
+![alt text](rqt_graph.png)
