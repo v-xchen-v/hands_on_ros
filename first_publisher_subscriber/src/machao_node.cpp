@@ -1,4 +1,5 @@
 /*
+roscore
 rosrun first_publisher_subscriber machao_node
 rostopic list
 rostopic hz kaihei_room
