@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="first_publisher_subscriber" type="machao_node" name="machao_node"/>
+    <node pkg="first_publisher_subscriber" type="yao_node" name="yao_node"/>
+    <node pkg="first_publisher_subscriber" type="zhaoyun_node" name="zhaoyun_node"/>
+</launch>

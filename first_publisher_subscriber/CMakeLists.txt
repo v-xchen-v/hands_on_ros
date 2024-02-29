@@ -214,3 +214,8 @@ add_executable(yao_node src/yao_node.cpp)
 target_link_libraries(yao_node
   ${catkin_LIBRARIES}
 )
+
+add_executable(zhaoyun_node src/zhaoyun_node.cpp)
+target_link_libraries(zhaoyun_node
+  ${catkin_LIBRARIES}
+)
