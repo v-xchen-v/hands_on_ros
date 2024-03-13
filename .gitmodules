@@ -1,0 +1,3 @@
+[submodule "wpr_simulation"]
+	path = wpr_simulation
+	url = https://github.com/6-robot/wpr_simulation.git
